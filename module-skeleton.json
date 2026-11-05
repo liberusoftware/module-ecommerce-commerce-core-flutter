@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-commerce-core-flutter",
+  "capabilityKey": "planned:ecommerce:commerce-core",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_commerce_core_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/commerce-core.md",
+  "presentationPlan": "projects/ecommerce/flutter/commerce-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
